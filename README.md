@@ -1,4 +1,4 @@
-# LinguShare — Dokumentacja projektu
+# LinguaShare — Dokumentacja projektu
 
 **Autor:** Elena Ewanguelopulu
 
